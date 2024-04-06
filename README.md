@@ -1,7 +1,7 @@
 # Introduction
 This project aims to predict stock market trends using machine learning techniques, specifically employing the Random Forest Classifier algorithm. The study focuses on the S&P 500 index, a widely followed benchmark for the U.S. stock market, using historical price and volume data.
 
-## Jump to
+## Jump To
 + [Key Features](#features)
 + [Dependencies](#dependencies)
 + [Achievements](#achievements)
