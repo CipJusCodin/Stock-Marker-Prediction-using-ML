@@ -9,10 +9,10 @@ This project aims to predict stock market trends using machine learning techniqu
 + [Conclusion](#conclusion)
 
 # Key Features <a name="features"></a>
-Data Collection: Utilization of the Yahoo Finance API through the yfinance library to obtain daily stock index prices of the S&P 500.
-Data Preprocessing: Cleaning and processing of the obtained data, including handling missing values and creating target variables based on the direction of future stock price movements. Feature engineering techniques may also be applied to extract relevant information from the raw data.
-Model Training: Employing the Random Forest Classifier algorithm for predicting stock market trends. Tuning model hyperparameters for optimal performance.
-Backtesting: Evaluating model performance using historical data, employing backtesting techniques to assess the accuracy of predictions over different time horizons.
++ **Data Collection:** Utilization of the Yahoo Finance API through the yfinance library to obtain daily stock index prices of the S&P 500.
++ **Data Preprocessing:** Cleaning and processing of the obtained data, including handling missing values and creating target variables based on the direction of future stock price movements. Feature engineering techniques may also be applied to extract relevant information from the raw data.
++ **Model Training:** Employing the Random Forest Classifier algorithm for predicting stock market trends. Tuning model hyperparameters for optimal performance.
++ **Backtesting:** Evaluating model performance using historical data, employing backtesting techniques to assess the accuracy of predictions over different time horizons.
 
 # Dependencies<a name="dependencies"></a>
 1. **pandas:** Data manipulation and analysis.
